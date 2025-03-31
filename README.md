@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Poorna Chandra D <br><br><a href="https://poorna-chandra-d.github.io/poornaportfolio/"><img src ="https://avatars.githubusercontent.com/u/69423861?s=400&u=b46e4d6d361ea88db9d8adae4932878588b81d11&v=4" height="110" width="110" ></img></a>
+<h1 align="center">Hi 👋, I'm Poorna Chandra Dinesh <br><br><a href="https://poorna-chandra-d.github.io/poornaportfolio/"><img src ="https://avatars.githubusercontent.com/u/69423861?s=400&u=b46e4d6d361ea88db9d8adae4932878588b81d11&v=4" height="110" width="110" ></img></a>
 </h1>
 
 <br>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Cloud Engineer and RPA Developer</h3>
 
 <img src="" align="center">
 <br>
