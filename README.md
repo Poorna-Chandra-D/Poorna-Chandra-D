@@ -16,9 +16,9 @@
 
 <p align="left"> <a href="https://twitter.com/POORNA24102000" target="blank"><img src="https://img.shields.io/twitter/follow/POORNA24102000?logo=twitter&style=for-the-badge" alt="POORNA24102000" /></a> </p>
 
-- 🔭 I’m currently working on **Django Project**
+- 🔭 I'm building my profile as a **cloud engineer** and also working on a major **RPA project**.
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **AWS**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
