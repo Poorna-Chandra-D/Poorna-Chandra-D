@@ -28,7 +28,7 @@
 
 - 📝 I write articles on [https://poornachandrad2000.medium.com/](https://poornachandrad2000.medium.com/)
 
-- 💬 Ask me about **RPA , C , java and HTML**
+- 💬 Ask me about **RPA,Networking, Cloud, Java, JavaScript, NLP, AI bots**
 
 - 📫 How to reach me **poornachandrad2000@gmail.com**
 
