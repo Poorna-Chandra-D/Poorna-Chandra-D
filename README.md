@@ -34,7 +34,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/12KFWN8S2ZcL0I_ljmxyTnbrJi7JIK_n7/view?usp=sharing](https://drive.google.com/file/d/12KFWN8S2ZcL0I_ljmxyTnbrJi7JIK_n7/view?usp=sharing)
 
-- ⚡ Great  **Dedication towards targets**
+- ⚡ Great fact **Dedication towards targets**
 
 - 💛 **A short Bio about me !** [Poorna Chandra D](https://discord.bio/p/poornachandrad)
 
