@@ -30,7 +30,7 @@
 
 - 💬 Ask me about **RPA,Networking, Cloud, Java, JavaScript, NLP, AI bots**
 
-- 📫 How to reach me **poornachandrad2000@gmail.com**
+- 📫 How to reach me **poorna@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/12KFWN8S2ZcL0I_ljmxyTnbrJi7JIK_n7/view?usp=sharing](https://drive.google.com/file/d/12KFWN8S2ZcL0I_ljmxyTnbrJi7JIK_n7/view?usp=sharing)
 
