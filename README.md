@@ -18,7 +18,7 @@
 
 - 🔭 I'm building my profile as a **cloud engineer** and also working on a major **RPA project**.
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently interest on **Building AI Agents**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
