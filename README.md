@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Poorna Chandra Dinesh <br><br><a href="https://poorna-chandra-d.github.io/poornaportfolio/"><img src ="![profile2](https://github.com/user-attachments/assets/a8006c54-2bbb-47a2-8af7-1a2e5a94618b)" height="110" width="110" ></img></a>
+<h1 align="center">Hi 👋, I'm Poorna Chandra Dinesh <br><br><a href="https://poorna-chandra-d.github.io/poornaportfolio/"><img src ="https://avatars.githubusercontent.com/u/69423861?s=400&u=b46e4d6d361ea88db9d8adae4932878588b81d11&v=4" height="110" width="110" ></img></a>
 </h1>
 
 <br>
