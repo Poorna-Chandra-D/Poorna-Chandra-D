@@ -61,9 +61,3 @@
 <p><a href="https://www.buymeacoffee.com/poornachandrad"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="poornachandrad" /></a></p><br><br>
 <br><br>
 <br>
-
-<br><br><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Poorna-Chandra-D&show_icons=true&locale=en&layout=compact" alt="Poorna-Chandra-D" /></p><br><br>
-
-<br><br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Poorna-Chandra-D&show_icons=true&locale=en" alt="Poorna-Chandra-D" /></p><br><br>
-
-<br><br><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Poorna-Chandra-D&" alt="Poorna-Chandra-D" /></p>
