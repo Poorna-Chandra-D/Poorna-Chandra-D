@@ -7,8 +7,6 @@
 <img src="" align="center">
 
 <br>
-
-
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubleen1903&label=Profile%20views&color=0e75b6&style=flat" alt="Poorna-Chandra-D" /> </p>
