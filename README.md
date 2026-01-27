@@ -594,8 +594,4 @@ Your support helps me continue creating awesome open-source projects and technic
 
 ---
 
-<!-- Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" alt="footer"/>
 
-**Thank you for visiting my profile!** ⭐  
-*Don't forget to check out my [Portfolio](https://poornachandradinesh.netlify.app/) and connect with me!*
