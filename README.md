@@ -1,21 +1,21 @@
 <div align="center">
 
 <!-- Animated Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Poorna%20Chandra%20Dinesh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20|%20Cloud%20Architect%20|%20AI%20Enthusiast&descSize=16&descAlignY=51" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Poorna%20Chandra%20Dinesh&fontSize=42&fontColor=fff&animation=twinkling" alt="header"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=800&height=100&lines=Software+Engineer+%7C+2%2B+Years+Experience;MS+Computer+Science+%40+Clark+University;Backend+%26+Cloud+Native+Developer;RPA+Developer+%26+Automation+Expert;AI+Agents+%26+NLP+Specialist;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=800&height=100&lines=Software+Engineer;Network+Engineer;Full+Stack+Developer;RPA+Automation+Expert;AI+%26+Cloud+Enthusiast" alt="Typing Animation"/>
 
 <!-- Portfolio Banner - PROMINENTLY DISPLAYED -->
-<a href="https://poorna-chandra-d.github.io/poornaportfolio/" target="_blank">
+<a href="https://poornachandradinesh.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-CLICK_HERE-FF6B6B?style=for-the-badge&labelColor=1a1a1a&color=FF6B6B&logoColor=white" alt="Portfolio" height="50"/>
 </a>
 
 <br/><br/>
 
 <!-- Social Badges Row 1 -->
-[![Portfolio](https://img.shields.io/badge/🎨_Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://poorna-chandra-d.github.io/poornaportfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poorna-chandra-d-54b641165/)
+[![Portfolio](https://img.shields.io/badge/🎨_Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://poornachandradinesh.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poorna-chandra-dinesh/)
 [![Email](https://img.shields.io/badge/Email-poornacd24%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poornacd24@gmail.com)
 [![Resume](https://img.shields.io/badge/📄_Resume-View_Now-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/12KFWN8S2ZcL0I_ljmxyTnbrJi7JIK_n7/view?usp=sharing)
 
@@ -40,7 +40,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-I'm **Poorna Chandra Dinesh**, a passionate **Software Engineer** and **Computer Science graduate student** at Clark University with **2+ years of professional experience** designing and developing high-quality, scalable software applications in cloud-native environments.
+I'm **Poorna Chandra Dinesh**, a passionate **Software Engineer** and **Network Engineer** and **Computer Science graduate student** at Clark University with **2+ years of professional experience** designing and developing scalable, cloud-native applications. I thrive on solving complex technical challenges and building intelligent automation solutions that drive business value.
 
 ### 💼 Current Status
 
@@ -71,7 +71,7 @@ graduation: "May 2026"
 - 💬 **Ask Me About:** RPA, Networking, Cloud Engineering, Java, JavaScript, Python, NLP, AI Bots, Backend Development
 - 📧 **Email:** poornacd24@gmail.com
 - 📱 **Phone:** 774-525-9768
-- 🌐 **Portfolio:** [poorna-chandra-d.github.io/poornaportfolio](https://poorna-chandra-d.github.io/poornaportfolio/)
+- 🌐 **Portfolio:** [poornachandradinesh.netlify.app](https://poornachandradinesh.netlify.app/)
 
 ---
 
@@ -265,7 +265,7 @@ An intelligent job tracking platform with **Gmail OAuth2 integration** and **NLP
 
 ### 🌐 More Projects on My Portfolio
 
-[![Visit Portfolio](https://img.shields.io/badge/🌐_EXPLORE_ALL_PROJECTS-View_Portfolio-FF5722?style=for-the-badge&labelColor=1a1a1a)](https://poorna-chandra-d.github.io/poornaportfolio/)
+[![Visit Portfolio](https://img.shields.io/badge/🌐_EXPLORE_ALL_PROJECTS-View_Portfolio-FF5722?style=for-the-badge&labelColor=1a1a1a)](https://poornachandradinesh.netlify.app/)
 
 </div>
 
@@ -299,7 +299,7 @@ An intelligent job tracking platform with **Gmail OAuth2 integration** and **NLP
 
 ### 💻 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poorna-Chandra-D&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&exclude_repo=Poorna-Chandra-D" alt="Top Languages" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poorna-Chandra-D&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&exclude_repo=Poorna-Chandra-D" alt="Top Languages" />
 
 ### 📊 Contribution Activity Graph
 
@@ -339,11 +339,11 @@ An intelligent job tracking platform with **Gmail OAuth2 integration** and **NLP
 
 ### 🏅 Professional Certifications
 
-[![CCNA](https://img.shields.io/badge/Cisco-CCNA_Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.linkedin.com/in/poorna-chandra-d-54b641165/)
+[![CCNA](https://img.shields.io/badge/Cisco-CCNA_Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.linkedin.com/in/poorna-chandra-dinesh/)
 
 **Cisco Certified Network Associate (CCNA)**  
 📅 **Achieved:** September 2025  
-🔗 **Verification:** [View Certificate](https://www.linkedin.com/in/poorna-chandra-d-54b641165/)
+🔗 **Verification:** [View Certificate](https://www.linkedin.com/in/poorna-chandra-dinesh/)
 
 **Skills Covered:**
 - Network Fundamentals
@@ -384,7 +384,7 @@ class SoftwareEngineer:
     
     def __init__(self):
         self.name = "Poorna Chandra Dinesh"
-        self.role = "Software Engineer"
+        self.role = "Software Engineer & Network Engineer"
         self.experience_years = 2.5
         self.education = "MS Computer Science @ Clark University"
         self.location = "Worcester, MA, USA"
@@ -459,8 +459,8 @@ class SoftwareEngineer:
         return {
             "email": "poornacd24@gmail.com",
             "phone": "774-525-9768",
-            "portfolio": "https://poorna-chandra-d.github.io/poornaportfolio/",
-            "linkedin": "linkedin.com/in/poorna-chandra-d-54b641165/",
+            "portfolio": "https://poornachandradinesh.netlify.app/",
+            "linkedin": "linkedin.com/in/poorna-chandra-dinesh/",
             "github": "github.com/Poorna-Chandra-D"
         }
 
@@ -476,7 +476,7 @@ print("🚀 Let's build something amazing together!")
 **Output:**
 ```
 👋 Hello! I'm Poorna Chandra Dinesh
-💼 Software Engineer with 2.5+ years of experience
+💼 Software Engineer & Network Engineer with 2.5+ years of experience
 🎓 MS Computer Science @ Clark University
 📧 Let's connect: poornacd24@gmail.com
 🚀 Let's build something amazing together!
@@ -490,8 +490,8 @@ print("🚀 Let's build something amazing together!")
 
 ### 💼 Professional Networks
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poorna-chandra-d-54b641165/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://poorna-chandra-d.github.io/poornaportfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poorna-chandra-dinesh/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://poornachandradinesh.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poornacd24@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/12KFWN8S2ZcL0I_ljmxyTnbrJi7JIK_n7/view?usp=sharing)
 
@@ -536,9 +536,9 @@ DevOps • Docker • Kubernetes • System Design • Automation
 
 📧 **Email:** [poornacd24@gmail.com](mailto:poornacd24@gmail.com)  
 📱 **Phone:** [774-525-9768](tel:+17745259768)  
-🌐 **Portfolio:** [poorna-chandra-d.github.io/poornaportfolio](https://poorna-chandra-d.github.io/poornaportfolio/)  
+🌐 **Portfolio:** [poornachandradinesh.netlify.app](https://poornachandradinesh.netlify.app/)  
 📄 **Resume:** [View My Complete Resume](https://drive.google.com/file/d/12KFWN8S2ZcL0I_ljmxyTnbrJi7JIK_n7/view?usp=sharing)  
-💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/poorna-chandra-d-54b641165/)
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/poorna-chandra-dinesh/)
 
 <br/>
 
@@ -598,6 +598,4 @@ Your support helps me continue creating awesome open-source projects and technic
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" alt="footer"/>
 
 **Thank you for visiting my profile!** ⭐  
-*Don't forget to check out my [Portfolio](https://poorna-chandra-d.github.io/poornaportfolio/) and connect with me!*
-
-</div>
+*Don't forget to check out my [Portfolio](https://poornachandradinesh.netlify.app/) and connect with me!*
