@@ -17,7 +17,7 @@
 [![Portfolio](https://img.shields.io/badge/🎨_Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://poornachandradinesh.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poorna-chandra-dinesh/)
 [![Email](https://img.shields.io/badge/Email-poornacd24%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poornacd24@gmail.com)
-[![Resume](https://img.shields.io/badge/📄_Resume-View_Now-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/12KFWN8S2ZcL0I_ljmxyTnbrJi7JIK_n7/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/📄_Resume-View_Now-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1iqBzCe2DIr4zQBj_odyShQoNcwFapLuy/view?usp=sharing)
 
 <!-- Social Badges Row 2 -->
 [![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://poornachandrad2000.medium.com/)
@@ -493,7 +493,7 @@ print("🚀 Let's build something amazing together!")
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poorna-chandra-dinesh/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://poornachandradinesh.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poornacd24@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/12KFWN8S2ZcL0I_ljmxyTnbrJi7JIK_n7/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1iqBzCe2DIr4zQBj_odyShQoNcwFapLuy/view?usp=sharing)
 
 ### 📱 Social Media
 
@@ -537,7 +537,7 @@ DevOps • Docker • Kubernetes • System Design • Automation
 📧 **Email:** [poornacd24@gmail.com](mailto:poornacd24@gmail.com)  
 📱 **Phone:** [774-525-9768](tel:+17745259768)  
 🌐 **Portfolio:** [poornachandradinesh.netlify.app](https://poornachandradinesh.netlify.app/)  
-📄 **Resume:** [View My Complete Resume](https://drive.google.com/file/d/12KFWN8S2ZcL0I_ljmxyTnbrJi7JIK_n7/view?usp=sharing)  
+📄 **Resume:** [View My Complete Resume](https://drive.google.com/file/d/1iqBzCe2DIr4zQBj_odyShQoNcwFapLuy/view?usp=sharing)  
 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/poorna-chandra-dinesh/)
 
 <br/>
