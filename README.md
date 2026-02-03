@@ -339,7 +339,7 @@ An intelligent job tracking platform with **Gmail OAuth2 integration** and **NLP
 
 ### 🏅 Professional Certifications
 
-[![CCNA](https://img.shields.io/badge/Cisco-CCNA_Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.linkedin.com/in/poorna-chandra-dinesh/)
+[![CCNA](https://img.shields.io/badge/Cisco-CCNA_Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/0bacfc70-51c8-4d25-aaa1-112da0fc7cfa)
 
 **Cisco Certified Network Associate (CCNA)**  
 📅 **Achieved:** September 2025  
