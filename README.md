@@ -286,7 +286,7 @@ An intelligent job tracking platform with **Gmail OAuth2 integration** and **NLP
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Poorna-Chandra-D&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Poorna-Chandra-D&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=github" alt="GitHub Stats" />
 
 </td>
 <td width="50%">
@@ -299,7 +299,38 @@ An intelligent job tracking platform with **Gmail OAuth2 integration** and **NLP
 
 ### 💻 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poorna-Chandra-D&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&exclude_repo=Poorna-Chandra-D" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poorna-Chandra-D&layout=donut&theme=tokyonight&hide_border=true&langs_count=10&exclude_repo=Poorna-Chandra-D" alt="Top Languages" />
+
+### 📊 Profile Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Poorna-Chandra-D&theme=tokyonight" alt="Profile Details" width="100%" />
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Poorna-Chandra-D&theme=tokyonight" alt="Repos per Language" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Poorna-Chandra-D&theme=tokyonight" alt="Most Commit Language" />
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Poorna-Chandra-D&theme=tokyonight" alt="Stats" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Poorna-Chandra-D&theme=tokyonight&utcOffset=-5" alt="Productive Time" />
+
+</td>
+</tr>
+</table>
 
 ### 📊 Contribution Activity Graph
 
